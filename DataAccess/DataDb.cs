@@ -1,23 +1,22 @@
 ﻿using DataAccess.Db;
+using DataAccess.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace DataAccess
 {
-    public class DataDb
+    internal class DataDb
     {
-		private const string strCnn =
-		   @"Server=.\SQLEXPRESS
-		   ;Database=Prueba
-		   ;User Id=sa
-		   ;Password=123
-		   ;";
+		string strCnn;
+
+		public DataDb() {
+			strCnn = new AppSettings().GetConectionString();
+		}
 
 		private ViajesData _viajesData;
 		public ViajesData ViajesData
 			=> _viajesData
 			?? (_viajesData = new ViajesData(strCnn));
-
 	}
 }

@@ -7,9 +7,9 @@ namespace DataAccess.Controllers
 {
     public class ViajeController
     {
-		private Data Data { get; set; }
+		private DataDb Data { get; set; }
 
-		public ViajeController(Data data)
+		internal ViajeController(DataDb data)
 		{
 			Data = data;
 		}

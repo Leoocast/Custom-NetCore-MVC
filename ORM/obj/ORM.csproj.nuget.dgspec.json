@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GeekSide\\Desktop\\Aplicacion\\Web\\ORM\\ORM.csproj": {}
+    "C:\\Users\\user\\Desktop\\Custom-NetCore-MVC\\ORM\\ORM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GeekSide\\Desktop\\Aplicacion\\Web\\ORM\\ORM.csproj": {
+    "C:\\Users\\user\\Desktop\\Custom-NetCore-MVC\\ORM\\ORM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GeekSide\\Desktop\\Aplicacion\\Web\\ORM\\ORM.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\Custom-NetCore-MVC\\ORM\\ORM.csproj",
         "projectName": "ORM",
-        "projectPath": "C:\\Users\\GeekSide\\Desktop\\Aplicacion\\Web\\ORM\\ORM.csproj",
-        "packagesPath": "C:\\Users\\GeekSide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GeekSide\\Desktop\\Aplicacion\\Web\\ORM\\obj\\",
+        "projectPath": "C:\\Users\\user\\Desktop\\Custom-NetCore-MVC\\ORM\\ORM.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\Custom-NetCore-MVC\\ORM\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\GeekSide\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
