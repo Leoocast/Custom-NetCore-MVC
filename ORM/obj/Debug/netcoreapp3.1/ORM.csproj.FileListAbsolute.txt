@@ -1,0 +1,9 @@
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\bin\Debug\netcoreapp3.1\ORM.deps.json
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\bin\Debug\netcoreapp3.1\ORM.dll
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfoInputs.cache
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\obj\Debug\netcoreapp3.1\ORM.AssemblyInfo.cs
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\bin\Debug\netcoreapp3.1\ORM.pdb
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\obj\Debug\netcoreapp3.1\ORM.csprojAssemblyReference.cache
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\obj\Debug\netcoreapp3.1\ORM.csproj.CoreCompileInputs.cache
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\obj\Debug\netcoreapp3.1\ORM.dll
+C:\Users\GeekSide\Desktop\Aplicacion\Web\ORM\obj\Debug\netcoreapp3.1\ORM.pdb
